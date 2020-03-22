@@ -1,0 +1,8 @@
+export const UPDATE_DRIVER_NAME = "ACTION_UPDATE_DRIVER_NAME";
+export const UPDATE_GAME_START = "ACTION_UPDATE_GAME_START";
+export const UPDATE_GAME_STATUS = "ACTION_UPDATE_GAME_STATUS";
+
+export const NOT_STARTED = "NOT_STARTED";
+export const RUNNING = "RUNNING";
+export const PAUSED = "PAUSED";
+export const FINISHED = "FINISHED";
